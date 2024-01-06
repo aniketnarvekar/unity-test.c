@@ -4,3 +4,4 @@ project(unity-test C)
 
 add_subdirectory(module)
 add_subdirectory(src)
+add_subdirectory(external)
